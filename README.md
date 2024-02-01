@@ -3,7 +3,7 @@
 - Passionate about exploring Quantitative Engineering and Financial Markets
 - 📫 Reach me at dylan-hans@outlook.com
   
-Check out my [portfolio](https://github.com/dylanhans?tab=repositories)!
+Check out my [Portfolio!](https://github.com/dylanhans?tab=repositories)
 ## 🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dylanhans/) 
 ## 💻 Tech Stack:
 Languages: <br>
