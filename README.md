@@ -15,4 +15,4 @@ Developer Tools: <br>
 ![Git](https://img.shields.io/badge/git-121013?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%2300599C.svg?style=for-the-badge&logo=Jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-%23EE4C2C.svg?style=for-the-badge&logo=Agile&logoColor=white)
 ## 🌐 Let's Connect <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanhans/) 
-[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=Email&logoColor=white)](mailto:dylan-hans@outlook.com.com) 
+[![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=Email&logoColor=black)](mailto:dylan-hans@outlook.com) 
