@@ -3,7 +3,7 @@
 - Passionate about exploring Quantitative Engineering and Financial Markets
 - 📫 Reach me at dylan-hans@outlook.com
 
-  Check out my portfolio!
+Check out my portfolio!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dylanhans/) 
