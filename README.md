@@ -1,7 +1,7 @@
 ### Welcome! 👋
 - I’m a Computer Engineering new grad from Queen's University (April 2024)
-<br>- Passionate about exploring Quantitative Engineering and Financial Markets
-<br>- 📫 Reach me at dylan-hans@outlook.com
+- Passionate about exploring Quantitative Engineering and Financial Markets
+- 📫 Reach me at dylan-hans@outlook.com
 
 Check out my portfolio!
 
