@@ -13,4 +13,4 @@ Libraries | Frameworks: <br>
 
 Developer Tools: <br>
 ![Git](https://img.shields.io/badge/git-121013?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%2300599C.svg?style=for-the-badge&logo=Jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-%23EE4C2C.svg?style=for-the-badge&logo=Agile&logoColor=white)
-### 🌐 Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanhans/) 
+### 🌐 Let's Connect    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanhans/) 
