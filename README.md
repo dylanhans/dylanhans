@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="background-color: #0074e4; padding: 10px;">
 # 💫 About Me:
 I’m a Computer Engineering new grad from Queen's University (April 2024), passionate about exploring Quantitative Engineering and Financial Markets.
 <br>📫 Reach me at dylan-hans@outlook.com
-<div style="background-color: #0074e4; padding: 10px;">
 </div>
 
 Check out my portfolio!
