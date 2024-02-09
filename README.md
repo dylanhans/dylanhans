@@ -1,6 +1,6 @@
   ## Welcome! 👋
 - I’m a Computer Engineering new grad from Queen's University (April 2024)
-- Passionate about exploring Quantitative Engineering and Financial Markets
+- Passionate about exploring Software Engineering & Management
 - 📫 Reach me at dylan-hans@outlook.com
   
 Check out my [Portfolio!](https://github.com/dylanhans?tab=repositories)
