@@ -1,5 +1,5 @@
   ## Welcome! 👋
-- I’m a Computer Engineering new grad from Queen's University (April 2024)
+- I’m a Computer Engineering new grad from Queen's University '2024
 - Passionate about exploring Software Engineering & Management
 - 📫 Reach me at dylan-hans@outlook.com
   
