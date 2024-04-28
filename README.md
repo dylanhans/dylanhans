@@ -1,9 +1,9 @@
-  ## Welcome! 👋
+  ## Welcome 👋
 - I’m a Computer Engineering new grad from Queen's University '2024
 - Passionate about exploring Software Engineering & Quantitative Development
 - 📫 Reach me at dylan-hans@outlook.com
   
-Check out my [Portfolio!](https://github.com/dylanhans?tab=repositories)
+Check out my [Portfolio](https://github.com/dylanhans?tab=repositories)
 ## 💻 Tech Stack
 Languages: <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=sql&logoColor=white)
