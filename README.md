@@ -14,6 +14,6 @@ Libraries | Frameworks: <br>
 Developer Tools: <br>
 ![Git](https://img.shields.io/badge/git-121013?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%2300599C.svg?style=for-the-badge&logo=Jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-%23EE4C2C.svg?style=for-the-badge&logo=Agile&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-121013?style=for-the-badge&logo=AWS&logoColor=white) ![GC](https://img.shields.io/badge/GC-121013?style=for-the-badge&logo=GC&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-121013?style=for-the-badge&logo=CI/CD&logoColor=white)
 ## 🌐 Let's Connect <br>
+[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=Website&logoColor=black)](https://dylanhans.vercel.app/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanhans/) 
 [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=Email&logoColor=black)](mailto:dylan-hans@outlook.com) 
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=Website&logoColor=black)](https://dylanhans.vercel.app/) 
