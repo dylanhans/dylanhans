@@ -15,7 +15,8 @@ Libraries | Frameworks: <br>
 
 
 Developer Tools: <br>
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) ![Jira](https://img.shields.io/badge/Jira-%2300599C.svg?style=for-the-badge&logo=Jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-%23EE4C2C.svg?style=for-the-badge&logo=Agile&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-121013?style=for-the-badge&logo=AWS&logoColor=white) ![GC](https://img.shields.io/badge/GC-121013?style=for-the-badge&logo=GC&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-121013?style=for-the-badge&logo=CI/CD&logoColor=white) 
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Agile](https://img.shields.io/badge/Agile-050038?logo=miro&logoColor=fff)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![CI/CD](https://img.shields.io/badge/CI/CD-343434?logo=circleci&logoColor=fff)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 ## 🌐 Let's Connect <br>
 [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=Website&logoColor=black)](https://dylanhans.vercel.app/) 
