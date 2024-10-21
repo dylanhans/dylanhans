@@ -1,9 +1,13 @@
   ## Welcome 👋
-- I’m a Computer Engineering new grad from Queen's University '2024
-- Interested in Financial Technology and Software Engineering
-- 📫 Reach me at dylan-hans@outlook.com
-  
-Check out my [Portfolio.](https://github.com/dylanhans?tab=repositories)
+<p style="font-size: 12px;">
+- Computer Engineering graduate, Queen's University '24 <br>
+- Passionate about FinTech and Software Engineering <br>
+- 📫 Contact: dylan-hans@outlook.com
+</p>
+
+<p style="font-size: 12px;">
+<a href="https://github.com/dylanhans?tab=repositories">Portfolio</a>
+</p>
 ## 💻 Tech Stack
 Languages: <br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
