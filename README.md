@@ -1,17 +1,13 @@
   ## Welcome 👋
-<p style="font-size: 10px;">
-- Computer Engineering graduate, Queen's University '24 <br>
-- Passionate about FinTech and Software Engineering <br>
-- 📫 Contact: dylan-hans@outlook.com
-</p>
-
-<p style="font-size: 12px;">
-<a href="https://github.com/dylanhans?tab=repositories">Portfolio</a>
-</p>
+- I’m a Computer Engineering new grad from Queen's University '2024
+- Interested in Financial Technology and Software Engineering
+- 📫 Reach me at dylan-hans@outlook.com
+  
+Check out my [Portfolio.](https://github.com/dylanhans?tab=repositories)
 ## 💻 Tech Stack
 Languages: <br>
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
- [![SQL/NoSQL](https://img.shields.io/badge/SQL/NoSQL-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) <br> [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Matlab](https://img.shields.io/badge/Matlab-404040?logo=perforce&logoColor=fff)](#)
+### [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+### [![SQL/NoSQL](https://img.shields.io/badge/SQL/NoSQL-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) <br> [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Matlab](https://img.shields.io/badge/Matlab-404040?logo=perforce&logoColor=fff)](#)
 
 Libraries | Frameworks: <br>
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![REST](https://img.shields.io/badge/REST-009485.svg?logo=fastapi&logoColor=white)](#) [![Tensorflow](https://img.shields.io/badge/Tensorflow-e95420?logo=snapcraft&logoColor=fff)](#)  [![Pandas](https://img.shields.io/badge/Pandas-3775A9?logo=pypi&logoColor=fff)](#)
