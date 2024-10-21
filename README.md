@@ -11,7 +11,7 @@ Languages: <br>
 
 Libraries | Frameworks: <br>
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![REST](https://img.shields.io/badge/REST-009485.svg?logo=fastapi&logoColor=white)](#) [![Tensorflow](https://img.shields.io/badge/Tensorflow-e95420?logo=snapcraft&logoColor=fff)](#)  [![Pandas](https://img.shields.io/badge/Pandas-3775A9?logo=pypi&logoColor=fff)](#)
-[![SkLearn](https://img.shields.io/badge/SkLearn-000?logo=almalinux&logoColor=fff)](#) <br> [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](# [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+[![SkLearn](https://img.shields.io/badge/SkLearn-000?logo=almalinux&logoColor=fff)](#) <br> [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 
 
 Developer Tools: <br>
