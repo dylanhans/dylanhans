@@ -1,5 +1,5 @@
   ## Welcome 👋
-<p style="font-size: 12px;">
+<p style="font-size: 10px;">
 - Computer Engineering graduate, Queen's University '24 <br>
 - Passionate about FinTech and Software Engineering <br>
 - 📫 Contact: dylan-hans@outlook.com
