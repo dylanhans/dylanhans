@@ -1,6 +1,5 @@
-### 👋 Welcome
-Hi there! I’m a recent Computer Engineering graduate from Queen's University (Class of 2024).  
-I'm passionate about **Financial Technology**, **Software Engineering**, and building scalable, impactful products.
+I’m a recent Computer Engineering graduate from Queen's University (Class of 2024).  
+Passionate about **Financial Technology**, **Software Engineering**, and building scalable, impactful products.
 
 - 🎓 B.A.Sc in Computer Engineering @ Queen's University '24  
 - 💡 Interested in Financial Technology, AI, and Software Engineering
