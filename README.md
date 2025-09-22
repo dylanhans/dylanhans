@@ -58,13 +58,6 @@ I'm passionate about **Financial Technology**, **Software Engineering**, and bui
 [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)](#)
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)](#)  
 
-**📜 Certifications** <br>  
-[![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?logo=amazonaws&logoColor=white)](#)
-[![IBM AI Engineering](https://img.shields.io/badge/IBM%20AI%20Engineering-054ADA?logo=ibm&logoColor=white)](#)
-[![Stanford ML Specialization](https://img.shields.io/badge/Stanford%20ML%20Specialization-8C1515?logo=stanforduniversity&logoColor=white)](#)  
-
-
-
 **🎓 Certifications** <br>
 AWS Certified AI Practitioner <br>
 IBM AI Engineering <br>
@@ -75,7 +68,7 @@ Stanford ML Specialization
 **🌐 Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanhans/) 
-[![Website](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Website&logoColor=black)](https://dylanhans.vercel.app/) 
+[![Website](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Website&logoColor=black)](https://dylanhans.com) 
 [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white)](mailto:dylanhans19@outlook.com) 
 
 
