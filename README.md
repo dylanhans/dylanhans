@@ -20,7 +20,7 @@ I'm passionate about **Financial Technology**, **Software Engineering**, and bui
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) 
-[![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#) 
+[![HTML/CSS](https://img.shields.io/badge/test-E34F26?logo=html5&logoColor=white)](#) 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](#)  
 [![MATLAB](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) 
 
